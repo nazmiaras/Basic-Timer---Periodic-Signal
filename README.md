@@ -1,2 +1,2 @@
-# Basic_Timer_Periodic_Signal_STM32429
+# Basic Timer Periodic Signal For STM32429ZI
  
